@@ -2,6 +2,7 @@
 Manipulating Database
 
 cid: the customer id who made the purchase.
+
 club: which club that the puchase is made.
 title, year: which book the customer purchased.
 whenp(optional): when the purchase is made. if not provided, use the system current time.
